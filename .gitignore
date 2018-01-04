@@ -7,7 +7,7 @@ node_modules
 # macOS 폴더 속성
 .DS_Store
 
-# 임시 파일
+# 임시 파일aa
 *.tmp
 *~
 
